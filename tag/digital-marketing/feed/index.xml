@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Marketing &#8211; PathakRaj</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 12 Dec 2016 08:48:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2017/01/cropped-logo_seosight-100x100.png</url>
+	<title>Marketing &#8211; PathakRaj</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Post with images inside</title>
+		<link>./../../../post-with-images-inside/index.html</link>
+					<comments>./../../../post-with-images-inside/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Fri, 18 Nov 2016 09:13:43 +0000</pubDate>
+				<category><![CDATA[Local SEO]]></category>
+		<category><![CDATA[PPC Management]]></category>
+		<category><![CDATA[Audience]]></category>
+		<category><![CDATA[Marketing]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=186</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer blandit lacus id sem vehicula ullamcorper. Nulla et sapien eu nunc mollis scelerisque vel quis turpis. Cras orci arcu, rutrum eget lorem vitae, accumsan gravida nisi. Aenean fermentum id nunc eu rutrum. Fusce molestie non magna ac malesuada. Aliquam erat volutpat. Cras eget commodo erat. Mauris [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer blandit lacus id sem vehicula ullamcorper. <span id="more-186"></span>Nulla et sapien eu nunc mollis scelerisque vel quis turpis. Cras orci arcu, rutrum eget lorem vitae, accumsan gravida nisi. Aenean fermentum id nunc eu rutrum.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-33" src="./../../../wp-content/uploads/2016/11/post1.jpg" alt="post1" width="731" height="443" srcset="./../../../wp-content/uploads/2016/11/post1.jpg 731w, ./../../../wp-content/uploads/2016/11/post1-300x182.jpg 300w, ./../../../wp-content/uploads/2016/11/post1-600x364.jpg 600w" sizes="(max-width: 731px) 100vw, 731px" /></p>
+<p>Fusce molestie non magna ac malesuada. Aliquam erat volutpat. Cras eget commodo erat. Mauris tortor diam, ultricies porta accumsan vitae, sodales ut tellus. Ut vitae massa ut orci facilisis tristique ut vel orci. Donec posuere laoreet nunc, eget aliquam elit condimentum at. Suspendisse nec tortor arcu.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-32" src="./../../../wp-content/uploads/2016/11/post4.jpg" alt="post4" width="741" height="454" srcset="./../../../wp-content/uploads/2016/11/post4.jpg 741w, ./../../../wp-content/uploads/2016/11/post4-300x184.jpg 300w, ./../../../wp-content/uploads/2016/11/post4-600x368.jpg 600w" sizes="(max-width: 741px) 100vw, 741px" /></p>
+<p>Nam rhoncus fermentum turpis, ut malesuada lorem vestibulum eget. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin cursus sit amet ipsum sed convallis. Suspendisse laoreet erat ac lectus viverra fermentum. Nullam mollis nibh arcu, id consectetur nulla pharetra ut. Duis dolor diam, semper sed turpis ac, gravida varius felis. In ut leo eget eros tristique maximus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../post-with-images-inside/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Audio post format</title>
+		<link>./../../../audio-post-format/index.html</link>
+					<comments>./../../../audio-post-format/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 07 Nov 2016 12:27:42 +0000</pubDate>
+				<category><![CDATA[Email Marketing]]></category>
+		<category><![CDATA[Local SEO]]></category>
+		<category><![CDATA[Keyword]]></category>
+		<category><![CDATA[Marketing]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=23</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis mi quis dolor dignissim laoreet. Cras bibendum tempus neque, vitae malesuada risus dignissim mattis. Proin faucibus pretium ipsum, nec auctor odio eleifend vitae. Nulla nisi nunc, molestie a eleifend eget, venenatis et dui. In imperdiet orci odio, quis egestas elit rutrum nec. Mirum est notare [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis mi quis dolor dignissim laoreet. Cras bibendum<span id="more-23"></span> tempus neque, vitae malesuada risus dignissim mattis. Proin faucibus pretium ipsum, nec auctor odio eleifend vitae. Nulla nisi nunc, molestie a eleifend eget, venenatis et dui. In imperdiet orci odio, quis egestas elit rutrum nec.</p>
+<blockquote><p>Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis placerat facer possim assum.</p>
+<h6>Angelina Johnson<br />
+Envato Market</h6>
+</blockquote>
+<p>Duis mauris neque, pellentesque eget metus sit amet, consectetur sollicitudin sapien. Aliquam congue, ipsum eu cursus luctus, libero arcu porttitor tellus, nec convallis lacus dui nec risus. Maecenas eget velit odio. Nulla condimentum dignissim orci in iaculis. Phasellus nec mollis nisl. Nulla ullamcorper tellus sed mollis iaculis. Nam facilisis elementum magna at pharetra. Ut commodo leo ut volutpat volutpat. Suspendisse at iaculis odio. Donec ullamcorper pretium neque non suscipit. In et mauris a odio elementum maximus a a leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../audio-post-format/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: The important &#038; standard post format	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 09 Dec 2016 08:07:18 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: Angelina Johnson		</title>
+		<link>./../index.html#comment-2</link>
+
+		<dc:creator><![CDATA[Angelina Johnson]]></dc:creator>
+		<pubDate>Sat, 19 Nov 2016 10:09:32 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=38#comment-2</guid>
+
+					<description><![CDATA[Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius.]]></description>
+			<content:encoded><![CDATA[<p>Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Jonathan Simpson		</title>
+		<link>./../index.html#comment-1</link>
+
+		<dc:creator><![CDATA[Jonathan Simpson]]></dc:creator>
+		<pubDate>Sat, 19 Nov 2016 10:07:40 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=38#comment-1</guid>
+
+					<description><![CDATA[Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta et quinta decima.]]></description>
+			<content:encoded><![CDATA[<p>Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta et quinta decima.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
